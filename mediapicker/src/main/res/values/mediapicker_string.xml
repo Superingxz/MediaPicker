@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="picker_take_photo">拍照</string>
+    <string name="picker_record_video">录像</string>
+    <string name="picker_switch_media">切换</string>
+    <string name="picker_no_items">没有数据.</string>
+    <string name="picker_done_capital">完成</string>
+
+    <plurals name="picker_video_duration_min">
+        <item quantity="one">视频的长度小于 %d 秒</item>
+        <item quantity="other">视频的长度小于 %d 秒</item>
+    </plurals>
+    <plurals name="picker_video_duration_max">
+        <item quantity="one">视频的长度大于 %d 秒</item>
+        <item quantity="other">视频的长度大于 %d 秒</item>
+    </plurals>
+    <plurals name="picker_video_duration_warning">
+        <item quantity="one">视频长度限制  %d 秒.</item>
+        <item quantity="other">视频长度限制  %d 秒.</item>
+    </plurals>
+
+</resources>
